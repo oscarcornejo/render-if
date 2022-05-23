@@ -1,0 +1,27 @@
+{
+  "name": "@austral-ui/render-if",
+  "version": "0.0.1",
+  "author": "Oscar Cornejo Aguila",
+  "description": "RenderIf is a function that receives a validation as a parameter, and if that validation is true, the content passed as children will be displayed. Try it!",
+  "private": false,
+  "license": "MIT",
+  "repository": "github:oscarcornejo/render-if",
+  "keywords": [
+    "react",
+    "hooks",
+    "hook",
+    "react-hooks",
+    "window",
+    "resize",
+    "viewport",
+    "viewport-sizes",
+    "sizes",
+    "dimensions",
+    "typescript",
+    "render",
+    "validation"
+  ],
+  "publishConfig": {
+    "access": "public"
+  }
+}
