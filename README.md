@@ -26,7 +26,7 @@ export function App() {
 
   return (
     <div>
-        <RenderIf condition={widthSize > 600}>
+        <RenderIf isTrue={widthSize > 600}>
           <span>You are using a large screen</span>
         </RenderIf>
     </div>

@@ -1,6 +1,6 @@
 {
   "name": "@austral-ui/render-if",
-  "version": "0.0.1",
+  "version": "1.0.1",
   "author": "Oscar Cornejo Aguila",
   "description": "RenderIf is a function that receives a validation as a parameter, and if that validation is true, the content passed as children will be displayed. Try it!",
   "private": false,
